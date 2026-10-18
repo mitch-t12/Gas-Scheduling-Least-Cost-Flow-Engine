@@ -1,23 +1,23 @@
 # Gas-Scheduling-Least-Cost-Flow-Engine
 Determine the lowest-cost method of moving gas across a transportation network, accounting for fuel retainage and contract deliverability.
 
-# Technologies
+## Technologies
 Python\
 Optimization algorithms (COIN OP)\
 JSON
 
-# Inputs
+## Inputs
 Supply locations\
 Demand locations\
 Transportation paths\
 Capacity limits\
 Transportation costs
 
-# Outputs
+## Outputs
 Optimal routing decisions\
 Total transportation cost
 
-# Skills Demonstrated
+## Skills Demonstrated
 Network optimization\
 Operations research\
 Linear programming\
